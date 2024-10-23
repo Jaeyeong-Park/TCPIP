@@ -1,0 +1,82 @@
+C:\Users\jhcho\Documents\My_C#\My_Client\bin\Debug\My_Client.exe.config
+C:\Users\jhcho\Documents\My_C#\My_Client\bin\Debug\My_Client.exe
+C:\Users\jhcho\Documents\My_C#\My_Client\bin\Debug\My_Client.pdb
+C:\Users\jhcho\Documents\My_C#\My_Client\obj\Debug\My_Client.csproj.AssemblyReference.cache
+C:\Users\jhcho\Documents\My_C#\My_Client\obj\Debug\My_Client.Form1.resources
+C:\Users\jhcho\Documents\My_C#\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+C:\Users\jhcho\Documents\My_C#\My_Client\obj\Debug\My_Client.csproj.GenerateResource.cache
+C:\Users\jhcho\Documents\My_C#\My_Client\obj\Debug\My_Client.csproj.CoreCompileInputs.cache
+C:\Users\jhcho\Documents\My_C#\My_Client\obj\Debug\My_Client.exe
+C:\Users\jhcho\Documents\My_C#\My_Client\obj\Debug\My_Client.pdb
+C:\Users\Daekhon\Desktop\My_Client\bin\Debug\My_Client.exe.config
+C:\Users\Daekhon\Desktop\My_Client\bin\Debug\My_Client.exe
+C:\Users\Daekhon\Desktop\My_Client\bin\Debug\My_Client.pdb
+C:\Users\Daekhon\Desktop\My_Client\obj\Debug\My_Client.Form1.resources
+C:\Users\Daekhon\Desktop\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+C:\Users\Daekhon\Desktop\My_Client\obj\Debug\My_Client.csproj.GenerateResource.Cache
+C:\Users\Daekhon\Desktop\My_Client\obj\Debug\My_Client.exe
+C:\Users\Daekhon\Desktop\My_Client\obj\Debug\My_Client.pdb
+C:\Users\Daekhon\Desktop\My_Client\obj\Debug\My_Client.csprojResolveAssemblyReference.cache
+C:\Users\Daekhon\Desktop\My_Client\bin\Debug\TCPIPManager.dll
+C:\Users\Daekhon\Desktop\My_Client\bin\Debug\TCPIPManager.pdb
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\bin\Debug\My_Client.exe.config
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\bin\Debug\My_Client.exe
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\bin\Debug\My_Client.pdb
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\obj\Debug\My_Client.csprojResolveAssemblyReference.cache
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\obj\Debug\My_Client.Form1.resources
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\obj\Debug\My_Client.csproj.GenerateResource.Cache
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\obj\Debug\My_Client.exe
+C:\Users\Daekhon\Desktop\TCP_IP_Communication\My_Client\obj\Debug\My_Client.pdb
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.Form1.resources
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.csproj.GenerateResource.Cache
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\My_Client.exe.config
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\My_Client.exe
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\My_Client.pdb
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.exe
+D:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\My_Client.exe.config
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.exe
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\My_Client.exe
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\My_Client.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.Form1.resources
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.csproj.GenerateResource.Cache
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\TCPIP.dll
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\bin\Debug\TCPIP.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\My_Client\obj\Debug\My_Client.csprojResolveAssemblyReference.cache
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Debug\My_Client.exe.config
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Debug\My_Client.exe
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Debug\My_Client.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Debug\My_Client.exe
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Debug\My_Client.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Debug\Communication.dll
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Debug\Communication.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Debug\My_Client.csprojResolveAssemblyReference.cache
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Debug\My_Client.Form1.resources
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Debug\My_Client.csproj.GenerateResource.Cache
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Debug\My_Client.exe.config
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Debug\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Debug\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Debug\Communication.dll
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Debug\Communication.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.Form1.resources
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.csproj.GenerateResource.Cache
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Debug\My_Client.exe.config
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Debug\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Debug\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Debug\Communication.dll
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Debug\Communication.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.Form1.resources
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.Properties.Resources.resources
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Debug\My_Client.csproj.GenerateResource.Cache

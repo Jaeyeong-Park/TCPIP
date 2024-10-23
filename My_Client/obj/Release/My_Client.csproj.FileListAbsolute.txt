@@ -1,0 +1,44 @@
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\bin\Release\My_Client.exe.config
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\bin\Release\My_Client.exe
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\bin\Release\My_Client.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\bin\Release\TCPIP.dll
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\bin\Release\TCPIP.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\obj\Release\My_Client.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\obj\Release\My_Client.Form1.resources
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\obj\Release\My_Client.Properties.Resources.resources
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\obj\Release\My_Client.csproj.GenerateResource.Cache
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\obj\Release\My_Client.exe
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Client\obj\Release\My_Client.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Release\My_Client.exe.config
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Release\My_Client.exe
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Release\My_Client.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Release\My_Client.exe
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Release\My_Client.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Release\Communication.dll
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\bin\Release\Communication.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Release\My_Client.csprojResolveAssemblyReference.cache
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Release\My_Client.Form1.resources
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Release\My_Client.Properties.Resources.resources
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Client\obj\Release\My_Client.csproj.GenerateResource.Cache
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Release\My_Client.exe.config
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Release\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Release\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Release\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Release\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Release\Communication.dll
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\bin\Release\Communication.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Release\My_Client.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Release\My_Client.Form1.resources
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Release\My_Client.Properties.Resources.resources
+E:\Daekhon\Project\CommunicationClass\Communication\My_Client\obj\Release\My_Client.csproj.GenerateResource.Cache
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Release\My_Client.exe.config
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Release\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Release\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Release\My_Client.exe
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Release\My_Client.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Release\Communication.dll
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\bin\Release\Communication.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Release\My_Client.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Release\My_Client.Form1.resources
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Release\My_Client.Properties.Resources.resources
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Client\obj\Release\My_Client.csproj.GenerateResource.Cache

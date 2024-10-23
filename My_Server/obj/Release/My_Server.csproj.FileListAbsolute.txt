@@ -1,0 +1,44 @@
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\bin\Release\My_Server.exe.config
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\bin\Release\My_Server.exe
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\bin\Release\My_Server.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\bin\Release\TCPIP.dll
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\bin\Release\TCPIP.pdb
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\obj\Release\My_Server.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\obj\Release\My_Server.Form1.resources
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\obj\Release\My_Server.Properties.Resources.resources
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\obj\Release\My_Server.csproj.GenerateResource.Cache
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\obj\Release\My_Server.exe
+E:\Daekhon\Project\TCPIP\TCP_IP_Final\TCPIPManager\My_Server\obj\Release\My_Server.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\bin\Release\My_Server.exe.config
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\bin\Release\My_Server.exe
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\bin\Release\My_Server.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\bin\Release\Communication.dll
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\bin\Release\Communication.pdb
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\obj\Release\My_Server.csprojResolveAssemblyReference.cache
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\obj\Release\My_Server.Form1.resources
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\obj\Release\My_Server.Properties.Resources.resources
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\obj\Release\My_Server.csproj.GenerateResource.Cache
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\obj\Release\My_Server.exe
+C:\Users\wodud\Documents\Visual Studio 2015\Projects\Communication\My_Server\obj\Release\My_Server.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\bin\Release\My_Server.exe.config
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\obj\Release\My_Server.exe
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\obj\Release\My_Server.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\bin\Release\My_Server.exe
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\bin\Release\My_Server.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\bin\Release\Communication.dll
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\bin\Release\Communication.pdb
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\obj\Release\My_Server.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\obj\Release\My_Server.Form1.resources
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\obj\Release\My_Server.Properties.Resources.resources
+E:\Daekhon\Project\CommunicationClass\Communication\My_Server\obj\Release\My_Server.csproj.GenerateResource.Cache
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\bin\Release\My_Server.exe.config
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\bin\Release\My_Server.exe
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\bin\Release\My_Server.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\bin\Release\Communication.dll
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\bin\Release\Communication.pdb
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\obj\Release\My_Server.csprojResolveAssemblyReference.cache
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\obj\Release\My_Server.Form1.resources
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\obj\Release\My_Server.Properties.Resources.resources
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\obj\Release\My_Server.csproj.GenerateResource.Cache
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\obj\Release\My_Server.exe
+E:\Daekhon\Project\CommunicationClass\CommunicationClass\Communication\My_Server\obj\Release\My_Server.pdb
